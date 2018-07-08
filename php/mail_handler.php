@@ -2,7 +2,7 @@
 
 /* Configuration */
 /*your web-mail*/
-$mailto  = gcwngo@gmail.com;
+$mailto  = 'gcwngo@gmail.com';
 
 
 $name     	= strip_tags($_POST['first_name']);
